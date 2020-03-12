@@ -1,0 +1,40 @@
+@import "underHeader.css";
+@import "aside.css";
+@import "main.css";
+@import "footer.css";
+
+body {
+    margin: 0 16rem;
+}
+
+.header {
+    background: rebeccapurple;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+}
+
+.header__nav-all {
+    display: flex;
+    border-top: 1px solid rgba(219, 219, 219, 0.527);
+    border-bottom: 1px solid rgb(219, 219, 219, 0.527);
+    padding: 1rem 0;
+}
+
+.header__item {
+    list-style: none;
+    padding: 0 5px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.header__item-link {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+

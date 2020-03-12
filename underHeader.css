@@ -1,0 +1,12 @@
+.underHeader__imaga {
+    width: 105px;
+    border-radius: 106px;
+}
+
+.underHeader__article, .underHeader {
+    display: flex;
+}
+
+.underHeader__text {
+    margin: 0;
+}
